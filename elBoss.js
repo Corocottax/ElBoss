@@ -8,12 +8,12 @@ const elBoss = {
             description: "intentandome escapar de esta paranoia",
             imagenes: [
                 {
-                    imagen1: {
+                    imagen: {
                        url: "has conseguido acceder a la primera imagen de la paranoia"
                     }
                 },
                 {
-                    imagen2: {
+                    imagen: {
                         url: "has conseguido acceder a la segunda imagen de la paranoia"
                     }
                 }
@@ -24,12 +24,12 @@ const elBoss = {
             description: "Te mira y te petrifica",
             imagenes: [
                 {
-                    imagen1: {
+                    imagen: {
                        url: "has conseguido acceder a la primera imagen de la petrificasió"
                     },
                 },
                 {
-                    imagen2: {
+                    imagen: {
                         url: "has conseguido acceder a la segunda imagen de la petrificasió"
                     }
                 }   
@@ -40,12 +40,12 @@ const elBoss = {
             description: "Pues eso, fuego",
             imagenes: [
                 {
-                    imagen1: {
+                    imagen: {
                        url: "has conseguido acceder a la primera imagen del fueguito"
                     }
                 },
                 {
-                    imagen2: {
+                    imagen: {
                         url: "has conseguido acceder a la segunda imagen del fueguito"
                     }
                 } 
